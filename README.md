@@ -1,1 +1,1 @@
-"# openshift-example" 
+readme
